@@ -22,7 +22,7 @@ This project is organized into several key sections, each representing a critica
 8. **Modeling & Evaluation**: Building, evaluating, and comparing machine learning models to select the best predictor of churn.
 
 ## Dataset
-- **Source**: [E-Commerce Customer Churn Dataset](#) *(link if available)*
+- **Source**: [https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction]
 - **Description**: The dataset includes features such as customer tenure, satisfaction scores, complaint history, number of addresses, and more.
 
 ## Feature Importance & Model Interpretability
@@ -48,7 +48,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost shap
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <cahayatambunan/Final-Project-E-Commerce-Churn-Analysis-PRO-ML.git>
    ```
 2. Open the Jupyter Notebook and execute the steps outlined above to run the analysis.
 
@@ -58,9 +58,3 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost shap
 
 ## Future Work
 Potential next steps include fine-tuning hyperparameters, gathering additional data, and enhancing cross-validation techniques for better generalizability.
-
-## Contributors
-- **Data Analyst Team**: Responsible for data analysis and model development.
-
-## License
-Specify the license, e.g., MIT License.
